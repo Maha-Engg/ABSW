@@ -1,0 +1,44 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+.serviceTxt{
+    position: absolute;
+    margin-top: 270px;
+    margin-left: 550px;
+    color: rgb(37, 5, 5);
+    font-weight: 800;
+    font-size:100px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+   
+   
+}
+.serviceTxt:hover{
+    color: rgb(14, 92, 7);
+      font-family:'Courier New', Courier, monospace;
+    font-style:italic;
+}
+.serviceCard{
+    width: 24rem;
+    box-shadow:  5px 5px 3px grey,-5px -5px 3px white;
+}
+.serviceCard:hover{
+    width: 30rem;
+    
+}
+.Imple{
+    background: rgb(2, 2, 44);
+    color: white;
+    border-radius: 40px;
+}
+.hi{
+    color: white;
+}
+.serviceCards{
+    margin: 10px;
+    display: flex;
+    justify-content: space-around;
+} */

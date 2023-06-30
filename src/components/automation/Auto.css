@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  .autoHead{
+    color: black;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style:oblique;
+    font-weight: 500;
+    margin-left: 15em;
+    margin-top: 1em;
+
+  }
+
+  .autoContent{
+
+    display: flex;
+    flex-wrap: wrap;
+
+  }
+
+  .autoImage{
+    width: 40%;
+    margin-top: 20px;
+  }
+  .cards{
+    width: 18em;
+    margin-bottom: 5px;
+  }
+  .autoSlides{
+    background-color: rgb(37, 48, 197);
+    margin-bottom: 20px;
+  }
+  .conbtn{
+    background-color: rgb(47, 71, 10);
+    color: white;
+    border-radius: 8px;
+    padding: 20px;
+    width: max-content;
+    text-decoration: none;
+    margin-left: 20%;
+    
+  }
+  .conbtn:hover{
+    background-color: black;
+    border-radius: 10px;
+  }

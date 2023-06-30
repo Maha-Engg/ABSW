@@ -1,0 +1,86 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .imgTxt{
+  position: absolute;
+  margin-top: 250px;
+  margin-left: 450px;
+  color: rgb(245, 242, 242);
+  font-weight: 800;
+  font-size:100px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: oblique;
+}
+.imgTxt:hover{
+    color: rgb(98, 247, 85);
+    font-family:'Courier New', Courier, monospace;
+  font-style:italic;
+}
+
+.story{
+    text-align: left;
+    color: black;
+    font-weight: 700;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    padding-left: 150px;
+    padding-top: 100px;
+    font-size: larger;
+}
+
+.mission{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.missionTxt{
+    margin-top: 100px;
+}
+.allIcon{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 20px;
+    
+}
+
+.allIcon1{
+
+    display: flex;
+    
+    justify-content: space-around;
+    padding: 20px;
+    
+}
+
+
+.iconBox{
+    border: 1px dotted blue;
+    padding: 15px;
+    
+}
+.iconBox:hover{
+   background: rgb(1 1 1);
+   background: rgba(red, green, blue, 0.5);
+   color: white;
+   
+}
+.abtIcon{
+    color: rgb(26, 23, 214);
+    font-weight: 800;
+    font-size: 200px;
+    
+}
+.abtIcon:hover{
+    color: white;
+}
+ .h4{
+    color: rgba(0,0,0,0);
+}
+
+.h4:hover{
+    color: rgb(250, 246, 246);
+} */
