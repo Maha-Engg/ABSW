@@ -114,6 +114,17 @@
 }
 .form{
     width:100%;
+    margin: 0;
+}
+
+/*  ////////// Carrier  /////////*/
+
+.hireTxt{
+  color: rgb(240, 226, 226);
+  margin: 0;
+ margin-left: 45%;
+ height: 100%;
+  font-size: 3px;
 }
 
 /* about */
@@ -177,7 +188,12 @@
     margin-left: 20%;
     font-size: 50px;
   }
+  .autoHead{
+    
+    margin-left: 2em;
+    margin-top: 1em;
 
+  }
    
 .serviceTxt{
     position: absolute;
@@ -187,6 +203,12 @@
 .serviceCards{
     margin: 10px;
     display: block;
+}
+
+.autoImage{
+  width: 50rem;
+  height: 30rem;
+  margin-top: 20px;
 }
 
 .serviceCard{
@@ -209,18 +231,19 @@
     margin: 40px;
 }
 .boxphoto{
-    margin: 50px;
+    margin: 5px;
     height: 100%;
     width: 100%;
 }
 .boxphoto:hover{
-    margin: 60px;
+    margin: 10px;
     height: 100%;
     width: 100%;
 }
 
 .life{
     display: block;
+    margin: 0;
     
 }
 .lifeTxt{
