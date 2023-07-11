@@ -1,7 +1,7 @@
 import React from 'react'
-import boomika from './boomika.jpeg'
-import karthi from './karthi.jpeg'
-import hii from './hii.jpeg'
+import char4 from './char4.jpg'
+import char3 from './char3.jpg'
+import char2 from './char2.jpg'
 
 function About3() {
   return (
@@ -18,7 +18,7 @@ function About3() {
    <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col" className='container'>
     <div class="card h-100">
-      <img src={karthi}  className=' floatimg' class="card-img-top" alt="..."/>
+      <img src={char4}   class="card-img-top" className=' floatimg' alt="..."/>
       <div className="content">
       <h4>installation system</h4>
     <h4>project scope</h4>
@@ -36,7 +36,7 @@ function About3() {
   </div>
   <div class="col" className='container'>
     <div class="card h-100">
-      <img src={boomika} class="card-img-top" className=' floatimg' alt="..."/>
+      <img src={char3} class="card-img-top" className=' floatimg' alt="..."/>
       <div className="content">
       <h4>installation system</h4>
     <h4>project scope</h4>
@@ -55,7 +55,7 @@ function About3() {
 
   <div class="col" className='container'>
     <div class="card h-100">
-      <img src={hii} class="card-img-top"  className=' floatimg' alt="..."/>
+      <img src={char2} class="card-img-top"   alt="..."/>
       <div className="content">
       <h4>installation system</h4>
     <h4>project scope</h4>

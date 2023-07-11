@@ -1,5 +1,5 @@
 import React,{useState} from 'react';
-import logo15 from '../images/logo15.png'
+import logo6 from '../images/logo6.jpg'
 import {Link} from 'react-router-dom';
 const Navbar =()=>{
     const [nav,setNav]=useState(false);
@@ -19,7 +19,7 @@ return <>
 
    <nav className={nav ? "nav active" : "nav"}>
     <Link to='/'  smooth={true} duration={1000}>
-        <img src={logo15} className='logo' alt='/'></img>
+        <img src={logo6} className='logo' alt='/'></img>
     </Link>
    <input className='menu-btn' type='checkbox' id='menu-btn'/>
    <label className='menu-icon' htmlFor='menu-btn'>
